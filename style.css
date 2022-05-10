@@ -4,11 +4,11 @@ body {
 
 .jumbotron {
   padding-top: 6rem;
-  background-color: #acc8df;
+  background-color: #1c1e20;
 }
 
 #projects {
-  background-color: #acc8df;
+  background-color: #1c1e20;
 }
 
 #contact {
@@ -18,9 +18,19 @@ body {
 
 section {
   padding-top: 5rem;
+  padding-left: -1rem;
+  padding-right: -1rem;
 }
 
 #hehe {
   background-color: #2b477a;
   padding-bottom: 1cm;
+}
+
+#wave1 {
+  color: #1c1e20;
+}
+
+.navbar-brand {
+  margin-left: 10px;
 }
